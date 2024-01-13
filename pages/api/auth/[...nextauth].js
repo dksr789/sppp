@@ -53,7 +53,7 @@ async function refreshAccessToken(token) {
 // Replace these placeholders with your actual values
 const YOUR_SPOTIFY_CLIENT_ID = "368a26258ff14524a7eacfcf60f9de00";
 const YOUR_SPOTIFY_CLIENT_SECRET = "53e19f00800f49f380365c4d6c2c3263";
-const YOUR_NEXTAUTH_URL = "https://www.healthforevers.com";
+const YOUR_NEXTAUTH_URL = "https://sppp-iy4rikoc1-dktechnicalmates-projects.vercel.app";
 
 export default NextAuth({
   // Configure one or more authentication providers
