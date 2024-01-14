@@ -53,7 +53,7 @@ async function refreshAccessToken(token) {
 // Replace these placeholders with your actual values
 const YOUR_SPOTIFY_CLIENT_ID = "5a881e05966b46e6a834390e80c37713";
 const YOUR_SPOTIFY_CLIENT_SECRET = "b7434e52d7914cc6ba2cefc7192a0707";
-const YOUR_NEXTAUTH_URL = "https://www.healthforevers.com/api/auth/callback/spotify";
+const YOUR_NEXTAUTH_URL = "https://www.healthforevers.com/callback";
 
 export default NextAuth({
   // Configure one or more authentication providers
